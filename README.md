@@ -21,18 +21,18 @@ total_first_doses  |  pfizer_first_doses + moderna_first_doses _(not cumulative)
 
 ## Notice
 
-- 2nd doses of Pfizer are scheduled to be administered 21 days after 1st doses
+- 2nd doses of Pfizer are scheduled to be administered 21 days after 1st doses.
 
-- 2nd doses of Moderna are scheduled to be administered 28 days after 1st doses
+- 2nd doses of Moderna are scheduled to be administered 28 days after 1st doses.
 
     Source: https://www.cdc.gov/vaccines/covid-19/info-by-product/clinical-considerations.html
 
-- The efficacy of Pfizer is claimed to be ~95% on 28th day after first dose
+- The efficacy of Pfizer's is claimed to be ~95% on 28th day after the 1st dose.
 
     Source: https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-conclude-phase-3-study-covid-19-vaccine
 
 - Generally for vaccines, longer gap between first and booster doses create a better immune response. However, there has not been enough data about extending such gap with COVID-19 vaccines.
 
-- *Date of distribution allocations are different from dates of administered, which vary by states.
+- *Date of distribution allocations are different from dates of vaccine administration, which vary by states, hospitals, facilities, etc.
 
 - Again, values not cumulative, doses are new ones on specified dates.
